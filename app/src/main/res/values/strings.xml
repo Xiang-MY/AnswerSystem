@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">AnswerSystem</string>
+    <string name="app_name">QuestionApp</string>
+    <string name="app_name3">QuestionApp</string>
+    <string name="login_start_button">开始</string>
+    <string name="login_name_input_hint">题目数</string>
+    <string name="app_submit">提交</string>
+    <string name="result_text">答题结束</string>
+    <string name="result_button">结束</string>
+    <string name="result_text2">您的色盲程度为：</string>
 </resources>
