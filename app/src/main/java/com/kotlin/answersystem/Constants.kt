@@ -49,7 +49,7 @@ object Constants {
 
 
         questions.addAll(
-            listOf(que1, que2,que3,que4,que5, que6,que7,que8,que9, que10,que11,que12,que13, que14)
+            listOf(que1, que2,que3,que4,que5, que6,que7,que8,que9, que10,que11,que12,que13, que14,que15)
         )
 
         questions.shuffle()
